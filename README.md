@@ -11,7 +11,7 @@ This project predicts credit card approval using machine learning techniques.
 ## Setup
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/credit-card-approval.git
+    git clone https://github.com/OwenKamz/mlproject.git
     cd C:\Users\S\Documents\my_flask_app
     ```
 
